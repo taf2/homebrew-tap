@@ -1,8 +1,8 @@
 class Mdvi < Formula
   desc "Terminal markdown viewer with Vim-style navigation"
   homepage "https://github.com/taf2/mdvi"
-  url "https://github.com/taf2/mdvi/archive/refs/tags/v0.6.6.tar.gz"
-  sha256 "a6781c380572a9dd5d41a2e058687f5d9640abdec2bf22daf76e007e00ccc760"
+  url "https://github.com/taf2/mdvi/archive/refs/tags/v0.6.7.tar.gz"
+  sha256 "83354c8af6c8fc1fe77d39e004ff3ecb4f948b39e3a3b97fe56766c5d071fdab"
   license "MIT"
 
   depends_on "rust" => :build
